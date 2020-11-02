@@ -1,1 +1,9 @@
+name: LexAtlas C-19
+title: null
+logo: /assets/img/logo.png
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics: false
 theme: jekyll-theme-minimal
+github:
+  is\_project\_page:false
