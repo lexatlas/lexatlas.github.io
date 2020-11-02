@@ -1,9 +1,7 @@
-# Lex-Atlas C-19
-
-## About
+# About
 
 About this project.
 
-## Team
+# Team
 
 Project Team.
