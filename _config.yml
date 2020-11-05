@@ -1,9 +1,9 @@
-title: Lex-Atlas - Covid 19 1
-name: Lex-Atlas - Covid 19 2
+title: "Lex-Atlas: Covid 19"
+name: null
 logo: /img/la_biglogo.png
-description: Lex-Atlas - Covid 19 3
+description: Mapping and comparing legal Responses to COVID-19
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-slate
 github:
-  is\_project\_page:false
+  is_project_page:true
