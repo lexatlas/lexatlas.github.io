@@ -2,10 +2,10 @@ The Lex-Atlas: Covid 19 project will produce 80 national reports written by loca
 
 # Editorial Committee
 
+Coming soon.
+
 # Project Partners
-
-![logos](/img/logos.png){ width=100% }
-
+![logos](/img/logos.png)
 * the [Faculty of Laws, University College London](https://laws.ucl.ac.uk)
 * the [Dickson Poon School of Law, King's College London](https://www.kcl.ac.uk/law)
 * the [Max Planck Institute for Comparative Public Law and International Law](https://www.mpil.de/en/pub/news.cfm)
