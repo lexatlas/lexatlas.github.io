@@ -1,9 +1,9 @@
 title: "Lex-Atlas: Covid 19"
 name: null
 logo: /img/la_biglogo.png
-description: Mapping and comparing legal Responses to COVID-19
+description: A global academic project mapping legal responses to COVID-19.
 show_downloads: false
 google_analytics: false
 theme: jekyll-theme-slate
 github:
-  is_project_page:true
+  is_project_page: false
