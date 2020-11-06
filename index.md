@@ -43,7 +43,7 @@ The project’s website will be a portal to all of the project’s deliverables 
 The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/laws/people/prof-jeff-king) and [Dr. Octavio Ferraz](https://www.kcl.ac.uk/people/dr-octavio-ferraz).  The project is principally located at the [Faculty of Laws, University College London](https://laws.ucl.ac.uk).  It is jointly supported by the [School of Law at King’s College London](https://www.kcl.ac.uk/law), and the [Max Planck Institute for Comparative Public Law and International Law in Heidelberg](https://www.mpil.de/en/pub/news.cfm).   
 ## Editorial Committee
 
-| Photo | Bio |
+| | |
 |         ---: |:--- |
 | ![Photo of Jeff King](/img/profiles/jeffking.png) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 
