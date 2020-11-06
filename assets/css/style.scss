@@ -8,7 +8,7 @@ color:#ffff;
 background-image:url(/img/map.svg);
 }
 
-.custom-table th, .custom-table td {
-   padding: 1px;
-   // any style you want ...
+.main-content table th, .main-content table td{
+    padding: 0.2rem 0.2rem;
+    border: none;
 }
