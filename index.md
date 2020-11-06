@@ -45,7 +45,7 @@ The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/
 
 | Photo | Bio |
 |         ---: |:--- |
-| ![Photo of Jeff King](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
+| ![Photo of Jeff King](/img/profiles/jeffking.png) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 
 
 * Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy.
