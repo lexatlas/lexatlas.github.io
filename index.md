@@ -45,7 +45,7 @@ The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/
 
 | | |
 |         ---: |:--- |
-| ![photo](/img/profiles/jeffking.png) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
+| ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 | ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) (KCL); |
 | ![photo](/img/profiles/michaelveale.png) | Dr. [**Michael Veale**](https://www.ucl.ac.uk/laws/people/dr-michael-veale) (UCL); Lecturer in Digital Rights and Regulation. Area Editor for Information and Privacy. |
 
