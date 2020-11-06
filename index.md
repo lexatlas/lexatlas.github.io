@@ -43,28 +43,23 @@ The project’s website will be a portal to all of the project’s deliverables 
 The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/laws/people/prof-jeff-king) and [Dr. Octavio Ferraz](https://www.kcl.ac.uk/people/dr-octavio-ferraz).  The project is principally located at the [Faculty of Laws, University College London](https://laws.ucl.ac.uk).  It is jointly supported by the [School of Law at King’s College London](https://www.kcl.ac.uk/law), and the [Max Planck Institute for Comparative Public Law and International Law in Heidelberg](https://www.mpil.de/en/pub/news.cfm).   
 ## Editorial Committee
 
-|<img width=300/>| |
+|<img width=400/>| |
 |         ---: |:--- |
 | ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 | ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) (KCL); |
+| ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** (UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations. |
+| ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg** (Bristol University) – Area Editor for Labour Law. |
+| ![photo](/img/profiles/nataliebyrom.png) | Dr. **Natalie Byrom** (Legal Education Foundation, UK Independent Reviewer of COVID-19 Adaptations to Courts) – Area Editor for Access to Justice. |
+| ![photo](/img/profiles/nicolacountouris.png) | Prof. **Nicola Countouris** (UCL) – Area Editor for Labour Law. |
+| ![photo](/img/profiles/cathryncostello.png) | Prof. **Cathryn Costello** (University of Oxford) - Area Editor for Migrantion and Refugees. |
+| ![photo](/img/profiles/colleenflood.png) | Prof. **Colleen Flood** (University of Ottawa) – Area Editor for Comparative Health Law. |
+| ![photo](/img/profiles/evapils.png) | Prof. **Eva Pils** (King's College London) – Area Editor for Authoritarianism. |
+| ![photo](/img/profiles/nicosteytler.png) | Prof. **Nico Steytler** (University of Western Cape, South Africa) – Area Editor for Federalism and Local Government. |
+| ![photo](/img/profiles/silviasuteu.png) | Dr. **Silvia Suteu** (UCL) – Area Editor for Gender. |
+| ![photo](/img/profiles/bryanthomas.png) | Dr. **Bryan Thomas** (University of Ottawa) – Area Editor for Comparative Health Law. |
 | ![photo](/img/profiles/michaelveale.png) | Dr. [**Michael Veale**](https://www.ucl.ac.uk/laws/people/dr-michael-veale) (UCL); Lecturer in Digital Rights and Regulation. Area Editor for Information and Privacy. |
-{:.custom-table}
+| ![photo](/img/profiles/pedrovillarreal.png) | Dr. **Pedro Villarreal** (Max Planck Institute for Comparative Public Law, Heidelberg) – Area Editor for International and Comparative Health Law. |
 
-
-* Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy.
-* Dr. **Octavio Ferraz** (KCL).
-* Prof. **Tendayi Achiume** (UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations.  
-* Prof. **Alan Bogg** (Bristol University) – Area Editor for Labour Law.
-* Dr. **Natalie Byrom** (Legal Education Foundation, UK Independent Reviewer of COVID-19 Adaptations to Courts) – Area Editor for Access to Justice.
-* Prof. **Nicola Countouris** (UCL) – Area Editor for Labour Law.
-* Prof. **Cathryn Costello** (University of Oxford) - Area Editor for Migrantion and Refugees.  
-* Prof. **Colleen Flood** (University of Ottawa) – Area Editor for Comparative Health Law.
-* Prof. **Eva Pils** (King's College London) – Area Editor for Authoritarianism.
-* Prof. **Nico Steytler** (University of Western Cape, South Africa) – Area Editor for Federalism and Local Government.
-* Dr. **Silvia Suteu** (UCL) – Area Editor for Gender.
-* Dr. **Bryan Thomas** (University of Ottawa) – Area Editor for Comparative Health Law.
-* Dr. **Michael Veale** (UCL); Lecturer in Digital Rights and Regulation. Area Editor for Information and Privacy. 
-* Dr. **Pedro Villarreal** (Max Planck Institute for Comparative Public Law, Heidelberg) – Area Editor for International and Comparative Health Law.
 
 # Contact
 Please get in touch with Prof. Jeff King (see his contact details [on his UCL profile](https://www.ucl.ac.uk/laws/people/prof-jeff-king))
