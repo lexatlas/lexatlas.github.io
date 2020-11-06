@@ -1,3 +1,8 @@
+![logos](/img/logos.png)
+**Note: This current website is an initial placeholder for the site to come.**
+
+[Compendium](#the-lac19-compendium) | [Database](#the-lac19-database) | [Final Report](#the-lac19-final-report) | [Team](#team) | [Contact](#contact)
+
 ## About the project
 The **Lex-Atlas**: Covid-19 (LAC19) project is premised on the recognition of a need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and nations have had different responses and variable success at controlling the spread of Covid-19. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in the public health measures and have had diverse social policy and compensatory measures for vulnerable groups. A scholarly overview of these practices, arranging discussions in a way that facilitates genuine comparison, is required both to assess past political choices and future pandemic preparedness. The complexity of the subject-matter at the national level essentially requires, to make the international comparisons reliable, coordination between local experts and an a large editorial team applying a consistent methodology. 
 
@@ -32,13 +37,17 @@ The Final Report will be published open-access by Oxford University Press and wi
 
 ## The LAC19 Website
 The project’s website will be a portal to all of the project’s deliverables as well as access to the LAC19 network of Country Rapporteurs for academic researchers and policy-makers that have further inquiries about a particular country’s legal response to Covid-19.  It will furthermore include webpages for each country in the study, detailing further developments, guest commentary, and references to secondary literature.  The website will generally host blog contributions by the Editorial Committee, guest authors and by Country Rapporteurs on national experiences and key themes. 
-
 **Note: This current website is an initial placeholder for the site to come.**
 
 # Team
 The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/laws/people/prof-jeff-king) and [Dr. Octavio Ferraz](https://www.kcl.ac.uk/people/dr-octavio-ferraz).  The project is principally located at the [Faculty of Laws, University College London](https://laws.ucl.ac.uk).  It is jointly supported by the [School of Law at King’s College London](https://www.kcl.ac.uk/law), and the [Max Planck Institute for Comparative Public Law and International Law in Heidelberg](https://www.mpil.de/en/pub/news.cfm).   
-![logos](/img/logos.png)
 ## Editorial Committee
+
+| Photo | Bio |
+|         ---: |:--- |
+| ![Photo of Jeff King](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
+
+
 * Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy.
 * Dr. **Octavio Ferraz** (KCL).
 * Prof. **Tendayi Achiume** (UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations.  
