@@ -1,7 +1,7 @@
 ![logos](/img/logos.png)
 **Note: This current website is an initial placeholder for the site to come.**
 
-[Compendium](#the-lac19-compendium) | [Database](#the-lac19-database) | [Final Report](#the-lac19-final-report) | [Team](#team) | [Contact](#contact)
+[Compendium](#the-lac19-compendium) / [Database](#the-lac19-database) / [Final Report](#the-lac19-final-report) / [Team](#team) / [Contact](#contact)
 
 ## About the project
 The **Lex-Atlas**: Covid-19 (LAC19) project is premised on the recognition of a need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and nations have had different responses and variable success at controlling the spread of Covid-19. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in the public health measures and have had diverse social policy and compensatory measures for vulnerable groups. A scholarly overview of these practices, arranging discussions in a way that facilitates genuine comparison, is required both to assess past political choices and future pandemic preparedness. The complexity of the subject-matter at the national level essentially requires, to make the international comparisons reliable, coordination between local experts and an a large editorial team applying a consistent methodology. 
