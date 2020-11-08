@@ -6,24 +6,24 @@ Planned Deliverables: [Compendium](#the-lac19-compendium) / [Database](#the-lac1
 About: [Team](#team) / [Contact](#contact)
 
 ## About the project
-The **Lex-Atlas**: Covid-19 (LAC19) project, which began in 2020, is premised on the recognition of a need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and nations have had different responses and variable success at controlling the spread of Covid-19. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in the public health measures and have had diverse social policy and compensatory measures for vulnerable groups. A scholarly overview of these practices, arranging discussions in a way that facilitates genuine comparison, is required both to assess past political choices and future pandemic preparedness. The complexity of the subject-matter at the national level essentially requires, to make the international comparisons reliable, coordination between local experts and an a large editorial team applying a consistent methodology. 
+The **Lex-Atlas**: Covid-19 (LAC19) project, which began in 2020, is an attempt to make a deep scholarly analysis of national legal responses to Covid-19 around the world, and to presen the findings freely and in a manner that allows informed comparisons between different national approaches.  The project is premised on the recognition of a need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and nations have had different responses and variable success at controlling the spread of Covid-19. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in the public health measures and have had diverse social policy and compensatory measures for vulnerable groups. A scholarly overview of these practices is required both to assess past political choices and future pandemic preparedness. However, the complexity of the subject-matter at the national level essentially requires, to make the international comparisons reliable, coordination between top quality local experts on the one hand, and an a large editorial team applying a consistent methodology on the other. 
 
-The project seeks to meet this need through a world-wide and possibly unprecedented scholarly collaboration. The project’s core deliverables include a **Compendium of Country Reports**, a **Database**, and a **Final Report** written by fourteen internationally distinguished scholars on the legal responses to Covid-19 in up to 80 countries across all regions of the world.
+The project seeks to meet this need through a world-wide and possibly unprecedented scholarly collaboration between legal scholars. The project’s core deliverables include a **Compendium of Country Reports**, a **Database**, and a **Final Report** written by the project's Editorial Committee reflecting on best and worst practcies among legal and institutional responses to Covid-19 around the world.
 
 ## The LAC19 Compendium
-The Compendium will comprise between 60 - 80 national reports written by teams of local legal experts on the relevant country’s response to Covid-19. The Country Reports will be produced by reference to a comprehensive Author Guidance Code, addressing the following subjects: 
+The Compendium will comprise between 60 - 80 national reports written by teams of local legal experts on the relevant country’s legal response to Covid-19. The Country Reports will be produced by reference to a comprehensive Author Guidance Code, addressing the following subjects: 
 
-I. Constitutional Framework (e.g., executive, legislative, division of powers)  
+**I. Constitutional Framework (e.g., executive, legislative, division of powers)  
 
-II. Applicable Legal Framework (e.g., constitutional, statutory, exec rule-making)  
+**II. Applicable Legal Framework (e.g., constitutional, statutory, exec rule-making)  
 
-III. Institutions and Oversight (e.g., legislatures, courts, press, scientific advice)  
+**III. Institutions and Oversight (e.g., legislatures, courts, press, scientific advice)  
 
-IV. Public Health Measures Imposed (e.g., quarantine, lockdown, travel, PPE)  
+**IV. Public Health Measures Imposed (e.g., quarantine, lockdown, travel, PPE)  
 
-V. Social and Economic Measures Adopted (e.g. social security, labour, business)  
+**V. Social and Economic Measures Adopted (e.g. social security, labour, business)  
 
-VI. Human Rights and Vulnerable Groups (e.g. privacy, race, gender, migrants)  
+**VI. Human Rights and Vulnerable Groups (e.g. privacy, race, gender, migrants)  
 
 Each report will range from between 15,000–20,000 words and is written in a neutral, non-judgmental tone.  Country Rapporteurs head up national teams of authors.  All entries are edited by Area Editors that sit jointly on the Editorial Committee and who ensure the outputs retain coherence and comparability.  All Compendium entries will be published open-access by Oxford University Press and updated three times across 2021.  All web references to primary legal materials, which are given priority, will be archived and available permanently through the project. The first phase of country reports is in production and will be published in February 2021 and include 22 countries.  The second and third phases will be published between May and August 2021. 
 
