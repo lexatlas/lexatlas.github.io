@@ -48,7 +48,7 @@ The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/
 |<img width=400/>| |
 |         ---: |:--- |
 | ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) - Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee - General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
-| ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) - Associate Professor of Law, Dickson Poon School of Law, King's College London; Co-Director, Transnational Law Institute -  General Editor adn Area Editor for Comparative Public Health Law.
+| ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) - Associate Professor of Law, Dickson Poon School of Law, King's College London; Co-Director, Transnational Law Institute -  General Editor and Area Editor for Comparative Public Health Law.
 | ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** - Professor of Law, UCLA Law School; UN Special Rapporteur on Racism and Xenophobia - Area Editor for Migration and Race Relations. |
 | ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg** - Professor of Law, School of Law, Bristol University – Area Editor for Labour Law. |
 | ![photo](/img/profiles/nataliebyrom.png) | Dr. **Natalie Byrom**; Director of Research and Learning, Legal Education Foundation; UK Independent Reviewer of COVID-19 Adaptations to Courts) – Area Editor for Access to Justice. |
