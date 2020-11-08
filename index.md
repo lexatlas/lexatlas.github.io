@@ -45,7 +45,12 @@ The project’s website will be a portal to all of the project’s deliverables 
 
 # Team
 The lead investigators on the project are [Professor Jeff King](https://www.ucl.ac.uk/laws/people/prof-jeff-king) and [Dr. Octavio Ferraz](https://www.kcl.ac.uk/people/dr-octavio-ferraz).  The project is principally located at the [Faculty of Laws, University College London](https://laws.ucl.ac.uk).  It is jointly supported by the [School of Law at King’s College London](https://www.kcl.ac.uk/law), and the [Max Planck Institute for Comparative Public Law and International Law in Heidelberg](https://www.mpil.de/en/pub/news.cfm).   
+
+One or more Country Rapporteurs are responsible for the content relating to particular countries and territories for the duration of the project.  There is also an International Advisory Board and a Scientific Advisory Committee to advise on the social science elements of the project.  
+
 ## Editorial Committee
+
+THe Editorial Committee provides strategic direction and oversight of the project. They edit all Country Reports and will author the Final Report.
 
 |<img width=400/>| |
 |         ---: |:--- |
