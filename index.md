@@ -13,7 +13,7 @@ See further: [Compendium](#the-lac19-compendium) / [Database](#the-lac19-databas
 
 
 ## The LAC19 Compendium
-The Compendium will comprise between 60 - 80 national reports written by teams of distinguished national legal experts on the relevant country’s legal response to Covid-19.  Each country's team is headed by a Country Rapporteur, and in most cases the teams are composed of scholars with a diverse range of topical expertise. The individual Country Reports will be produced by reference to a comprehensive Author Guidance Code, to be updated as the project evolves but applied by all authors, addressing the following subjects: 
+The Compendium will comprise between 60 - 80 national reports written by teams of distinguished national legal experts on the relevant country’s legal response to Covid-19.  Each country's team is headed by a Country Rapporteur, and in most cases the teams are composed of scholars with a diverse range of topical expertise. The individual country reports will be produced by reference to a comprehensive Author Guidance Code, to be updated as the project evolves but applied by all authors, addressing the following subjects: 
 
 **I. Constitutional Framework (e.g., executive, legislative, division of powers)**  
 
@@ -58,10 +58,10 @@ The Editorial Committee provides strategic direction and oversight of the projec
 |         ---: |:--- |
 | ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) - Professor of Law, Faculty of Laws, University College London - Legal Adviser, UK House of Lords Constitution Committee - General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 | ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) - Associate Professor of Law, Dickson Poon School of Law, King's College London -  Co-Director, Transnational Law Institute -  General Editor and Area Editor for Comparative Public Health Law.
-| ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** - Professor of Law, UCLA Law School; UN Special Rapporteur on Racism and Xenophobia - Area Editor for Migration and Race Relations. |
+| ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** - Professor of Law, UCLA Law School - UN Special Rapporteur on Racism and Xenophobia - Area Editor for Migration and Race Relations. |
 | ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg** - Professor of Law, School of Law, Bristol University – Area Editor for Labour Law. |
 | ![photo](/img/profiles/nataliebyrom.png) | Dr. **Natalie Byrom**; Director of Research and Learning, Legal Education Foundation -  UK Independent Reviewer of COVID-19 Adaptations to Courts) – Area Editor for Access to Justice. |
-| ![photo](/img/profiles/nicolacountouris.png) | Prof. **Nicola Countouris** - Professor of Labour Law and European Law, Faculty of Laws, University College london – Area Editor for Labour Law. |
+| ![photo](/img/profiles/nicolacountouris.png) | Prof. **Nicola Countouris** - Professor of Labour Law and European Law, Faculty of Laws, University College London – Area Editor for Labour Law. |
 | ![photo](/img/profiles/cathryncostello.png) | Prof. **Cathryn Costello** - Professor of Fundamental Rights - Co-Director of Centre for Fundamental Rights, at the Hertie School of Government, Berlin; Andrew W Mellon Professor of Refugee and Migration Law, University of Oxford (on leave) - Area Editor for Migrantion and Refugees. |
 | ![photo](/img/profiles/colleenflood.png) | Prof. **Colleen Flood** - Professor and Research Chair in Health Law and Policy, Faculty of Law, University of Ottawa - Director of the University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
 | ![photo](/img/profiles/evapils.png) | Prof. **Eva Pils** - Professor of Law, Dickson Poon School of Law, King's College London – Area Editor for Authoritarianism. |
