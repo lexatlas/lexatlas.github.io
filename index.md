@@ -3,7 +3,7 @@
 
 
 ## About the project
-The **Lex-Atlas: Covid-19 (LAC19)** project was launched in September 2020 and will provide a scholarly analysis of national legal responses to Covid-19 around the world. Updated across 2021, it will be published open-access by Oxford University Press. It is the produce of a vast collaboration of legal experts from across the world.
+The **Lex-Atlas: Covid-19 (LAC19)** project was launched in September 2020 and will provide a scholarly analysis of national legal responses to Covid-19 around the world. Updated across 2021, it will be published open-access by Oxford University Press. It is the product of a vast collaboration of legal experts from across the world.
 
 The project is motivated by the need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and national responses have varied considerably. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in public health measures, and have had variable social policy coverage and responses to the human rights needs of vulnerable groups. A scholarly overview of these legal responses is required both to assess past political choices and to prepare for future pandemics. Cataloguing them in detail will also be an important contribution to the history of the pandemic.  However, the complexity and fluid nature of the subject-matter essentially requires an unconventional scholarly approach. To make the international comparisons valuable, it requires a high degree of coordination between distinguished national legal experts, a large editorial team applying a consistent methodology, and the capacity to change national portraits as the law and policy shifts in line with the evolution of the pandemic.
 
@@ -33,11 +33,13 @@ Each report will range from between 15,000–20,000 words and is written in a ne
 The country reports will contain data that can be compared quantitatively. Such data relates to the type of law-making activity; the type of emergency powers used; whether legislatures or elections were suspended; whether online proceedings were used in courts; and the character and proliferation of a variety of public health and social policy measures.  Whereas the Compendium will provide the legal and constitutional context as well as a description of the measures and related litigation, the Database will collate determinate and quantifiable data on these themes. It will allow users to conduct comprehensive cross-national comparisons and correlations with other known socio- economic, political and health data. Notably, the sample of countries in the study is selected with a view to diversity in the areas of region, income, legal system type, inequality, regime-type, and a variety of factors relating to rule of law, transparency, and ethnic division. It is also selected with regard to pandemic performance. 
 
 ## The LAC19 Final Report
-The Final Report will be written by the Editorial Team, who will reflect on the global overview of distinct themes.  Also to be published open-access by Oxford University Press, the Final Report will comprise:  
+The Final Report will be written by the Editorial Team, who will have the benefit of a global overview of the topics covered in the Compendium, fortified by communication with Country Rapporteurs and country report authors.  Also to be published open-access by Oxford University Press, the Final Report will comprise:  
 
 1. an analytical overview of the data, identifying response trends and correlations to major socio- economic and health indicators; and 
 
-2. an in-depth critical analysis of various thematic areas (e.g. privacy, civil liberties, migration), discussing what the editors consider to be best and worst practices in relation to different themes.  The Final Report will emerge from two workshops held in London in the fall of 2021.  
+2. an in-depth critical analysis of various thematic areas (e.g. privacy, civil liberties, migration), discussing what the editors consider to be best and worst practices in relation to different themes.  
+
+The Final Report will emerge from two workshops held in London in the fall of 2021.  
 
 ## The LAC19 Website
 The project’s website will be a portal to all of the project’s deliverables as well as access to the LAC19 network of Country Rapporteurs for academic researchers and policy-makers that have further inquiries about a particular country’s legal response to Covid-19.  It will furthermore include webpages for each country in the study, detailing further developments, guest commentary, and references to secondary literature.  The website will generally host blog contributions by the Editorial Committee, guest authors and by Country Rapporteurs on national experiences and key themes. 
