@@ -47,20 +47,20 @@ The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/
 
 |<img width=400/>| |
 |         ---: |:--- |
-| ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
-| ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) (KCL); Associate Professor of Law, Dickson Poon School of Law, King's College London; Co-Director, Transnational Law Institute.  General Editor adn Area Editor for Comparative Public Health Law.
-| ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume**; Professor of Law, UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations. |
-| ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg**; Professor of Law, School of Law, Bristol University – Area Editor for Labour Law. |
+| ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) - Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
+| ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) - Associate Professor of Law, Dickson Poon School of Law, King's College London; Co-Director, Transnational Law Institute.  General Editor adn Area Editor for Comparative Public Health Law.
+| ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** - Professor of Law, UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations. |
+| ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg** - Professor of Law, School of Law, Bristol University – Area Editor for Labour Law. |
 | ![photo](/img/profiles/nataliebyrom.png) | Dr. **Natalie Byrom**; Director of Research and Learning, Legal Education Foundation; UK Independent Reviewer of COVID-19 Adaptations to Courts) – Area Editor for Access to Justice. |
-| ![photo](/img/profiles/nicolacountouris.png) | Prof. **Nicola Countouris**; Professor of Labour Law and European Law, Faculty of Laws, University College london – Area Editor for Labour Law. |
-| ![photo](/img/profiles/cathryncostello.png) | Prof. **Cathryn Costello**; Professor of Fundamental Rights; Co-Director of Centre for Fundamental Rights, at the Hertie School of Government, Berlin; Andrew W Mellon Professor of Refugee and Migration Law, University of Oxford (on leave) - Area Editor for Migrantion and Refugees. |
-| ![photo](/img/profiles/colleenflood.png) | Prof. **Colleen Flood**; Professor and Research Chair in Health Law and Policy, Faculty of Law, University of Ottawa; Director of the University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
-| ![photo](/img/profiles/evapils.png) | Prof. **Eva Pils**; Professor of Law, Dickson Poon School of Law, King's College London – Area Editor for Authoritarianism. |
-| ![photo](/img/profiles/nicosteytler.png) | Prof. **Nico Steytler**; South African Research Chair in Multilevel Government, Law and Development, Dullah Omar Institute of Constitutional Law, Governance and Human Rights, University of Western Cape – Area Editor for Federalism and Local Government. |
-| ![photo](/img/profiles/silviasuteu.png) | Dr. **Silvia Suteu**; Senior Lecturer in Public Law, Faculty of Laws, University College London. Area Editor for Gender and Comparative Constitutionalism. |
-| ![photo](/img/profiles/bryanthomas.png) | Dr. **Bryan Thomas**; Senior Research Associate and Adjunct Professor, University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
-| ![photo](/img/profiles/michaelveale.png) | Dr. [**Michael Veale**](https://www.ucl.ac.uk/laws/people/dr-michael-veale); Lecturer in Digital Rights and Regulation, Faculty of Laws, University College London. Area Editor for Information and Privacy. |
-| ![photo](/img/profiles/pedrovillarreal.png) | Dr. **Pedro Villarreal**; Senior Research Fellow, Max Planck Institute for Comparative Public Law and International Law (Heidelberg) – Area Editor for International and Comparative Health Law. |
+| ![photo](/img/profiles/nicolacountouris.png) | Prof. **Nicola Countouris** - Professor of Labour Law and European Law, Faculty of Laws, University College london – Area Editor for Labour Law. |
+| ![photo](/img/profiles/cathryncostello.png) | Prof. **Cathryn Costello** - Professor of Fundamental Rights; Co-Director of Centre for Fundamental Rights, at the Hertie School of Government, Berlin; Andrew W Mellon Professor of Refugee and Migration Law, University of Oxford (on leave) - Area Editor for Migrantion and Refugees. |
+| ![photo](/img/profiles/colleenflood.png) | Prof. **Colleen Flood** - Professor and Research Chair in Health Law and Policy, Faculty of Law, University of Ottawa; Director of the University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
+| ![photo](/img/profiles/evapils.png) | Prof. **Eva Pils** - Professor of Law, Dickson Poon School of Law, King's College London – Area Editor for Authoritarianism. |
+| ![photo](/img/profiles/nicosteytler.png) | Prof. **Nico Steytler** - South African Research Chair in Multilevel Government, Law and Development, Dullah Omar Institute of Constitutional Law, Governance and Human Rights, University of Western Cape – Area Editor for Federalism and Local Government. |
+| ![photo](/img/profiles/silviasuteu.png) | Dr. **Silvia Suteu** - Senior Lecturer in Public Law, Faculty of Laws, University College London. Area Editor for Gender and Comparative Constitutionalism. |
+| ![photo](/img/profiles/bryanthomas.png) | Dr. **Bryan Thomas** - Senior Research Associate and Adjunct Professor, University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
+| ![photo](/img/profiles/michaelveale.png) | Dr. [**Michael Veale**](https://www.ucl.ac.uk/laws/people/dr-michael-veale) - Lecturer in Digital Rights and Regulation, Faculty of Laws, University College London. Area Editor for Information and Privacy. |
+| ![photo](/img/profiles/pedrovillarreal.png) | Dr. **Pedro Villarreal** - Senior Research Fellow, Max Planck Institute for Comparative Public Law and International Law (Heidelberg) – Area Editor for International and Comparative Health Law. |
 
 
 # Contact
