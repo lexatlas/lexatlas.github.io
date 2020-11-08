@@ -1,5 +1,5 @@
 ![logos](/img/logos.png)
-**Note: This current website is a placeholder for the site that is expected to be launched in 2021. Updates to follow.**
+**Note: This website is a placeholder for the site that is expected to be launched in 2021.**
 
 Planned Deliverables: [Compendium](#the-lac19-compendium) / [Database](#the-lac19-database) / [Final Report](#the-lac19-final-report)
 
