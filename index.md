@@ -1,9 +1,6 @@
 ![logos](/img/logos.png)
 **Note: This website is a placeholder for the site that is expected to be launched in 2021.**
 
-Planned Deliverables: [Compendium](#the-lac19-compendium) / [Database](#the-lac19-database) / [Final Report](#the-lac19-final-report)
-
-About: [Team](#team) / [Contact](#contact)
 
 ## About the project
 The **Lex-Atlas: Covid-19 (LAC19)** project was launched in September 2020 and will provide a scholarly analysis of national legal responses to Covid-19 around the world. Updated across 2021, it will be published open-access by Oxford University Press in a vast international collaboration of legal experts from across the world.
@@ -11,6 +8,9 @@ The **Lex-Atlas: Covid-19 (LAC19)** project was launched in September 2020 and w
 The project is premised on the recognition of the need for a comprehensive overview of national legal responses to Covid-19. The pandemic has many facets, and national responses have varied considerably. Quite apart from epidemiological performance, countries have employed emergency powers differently, have had different kinds of institutional disruption, diverged in the public health measures and have had diverse social policy and compensatory measures for vulnerable groups. A scholarly overview of these legal responses is required both to assess past political choices and to prepare for future pandemics. Cataloguing them in detail will also be an important contribution to the history of the pandemic.  However, the complexity and ever-changing nature of the subject-matter at the national level essentially requires an unconventional scholarly approach. To make the international comparisons reliable, it requires a high degree of coordination between distinguished national legal experts, a large editorial team applying a consistent methodology, and the capacity to make changes to the national portraits as the law and policy shifted in line with the evolution of the pandemic.
 
 The project seeks to meet this need through a world-wide and perhaps unprecedented scholarly collaboration between legal scholars. The project’s core deliverables include a **Compendium of Country Reports**, a **Database**, and a **Final Report** written by the project's Editorial Committee reflecting on best and worst practcies among legal and institutional responses to Covid-19 around the world.  The project is committed to open-access, but will publish to University Press standard. No deliverable will be behind a paywall and all data will be held open source.
+
+See further: [Compendium](#the-lac19-compendium) / [Database](#the-lac19-database) / [Final Report](#the-lac19-final-report) / [Team](#team) / [Contact](#contact)
+
 
 ## The LAC19 Compendium
 The Compendium will comprise between 60 - 80 national reports written by teams of distinguished national legal experts on the relevant country’s legal response to Covid-19.  Each country's team is headed by a Country Rapporteur, and in most cases the teams are composed of scholars with a diverse range of topical expertise. The individual Country Reports will be produced by reference to a comprehensive Author Guidance Code, to be updated as the project evolves but applied by all authors, addressing the following subjects: 
