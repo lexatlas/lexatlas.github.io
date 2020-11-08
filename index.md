@@ -47,7 +47,9 @@ The Principal Investigators include [Professor Jeff King](https://www.ucl.ac.uk/
 
 |<img width=400/>| |
 |         ---: |:--- |
-| ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
+| ![photo](/img/profiles/jeffking.jpg) | Prof. [**Jeff King**](https://www.ucl.ac.uk/laws/people/prof-jeff-king) (UCL); Professor of Law, Faculty of Laws, University College London; Legal Adviser, UK House of Lords Constitution Committee. 
+
+General Editor and Area Editor for Legal Framework, Institutions, and Social Policy. |
 | ![photo](/img/profiles/octavioferraz.png) | Dr. [**Octavio Ferraz**](https://www.kcl.ac.uk/people/dr-octavio-ferraz) (KCL); |
 | ![photo](/img/profiles/tendayiachiume.png) | Prof. **Tendayi Achiume** (UCLA Law School; UN Special Rapporteur on Racism and Xenophobia. Area Editor for Migration and Race Relations. |
 | ![photo](/img/profiles/alanbogg.png) | Prof. **Alan Bogg** (Bristol University) – Area Editor for Labour Law. |
