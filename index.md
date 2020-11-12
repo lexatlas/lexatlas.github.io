@@ -67,7 +67,7 @@ The Editorial Committee provides strategic direction and oversight of the projec
 | ![photo](/img/profiles/evapils.png) | Prof. **Eva Pils** - Professor of Law, Dickson Poon School of Law, King's College London – Area Editor for Authoritarianism. |
 | ![photo](/img/profiles/nicosteytler.png) | Prof. **Nico Steytler** - South African Research Chair in Multilevel Government, Law and Development, Dullah Omar Institute of Constitutional Law, Governance and Human Rights, University of Western Cape – Area Editor for Federalism and Local Government. |
 | ![photo](/img/profiles/silviasuteu.png) | Dr. **Silvia Suteu** - Senior Lecturer in Public Law, Faculty of Laws, University College London - Area Editor for Gender and Comparative Constitutionalism. |
-| ![photo](/img/profiles/bryanthomas.png) | Dr. **Bryan Thomas** - Senior Research Associate and Adjunct Professor, University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
+| ![photo](/img/profiles/bryanthomas.jpg) | Dr. **Bryan Thomas** - Senior Research Associate and Adjunct Professor, University of Ottawa Centre for Health Law, Policy and Ethics – Area Editor for Comparative Health Law. |
 | ![photo](/img/profiles/michaelveale.png) | Dr. [**Michael Veale**](https://www.ucl.ac.uk/laws/people/dr-michael-veale) - Lecturer in Digital Rights and Regulation, Faculty of Laws, University College London - Area Editor for Information and Privacy. |
 | ![photo](/img/profiles/pedrovillarreal.jpg) | Dr. **Pedro Villarreal** - Senior Research Fellow, Max Planck Institute for Comparative Public Law and International Law (Heidelberg) – Area Editor for International and Comparative Health Law. |
 
