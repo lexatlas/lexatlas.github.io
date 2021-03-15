@@ -1,5 +1,5 @@
 ![logos](/img/logos.png)
-**Note: This website is a placeholder.  The actual site will be launched in early April 2021.**
+**Note: This website is a placeholder.  The newly built site will be launched in early April 2021.**
 
 
 ## About the project
